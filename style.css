@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    margin: 10px;
+    padding: 10px;
+}
+
+.heading {
+    color: white;
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: bold;
+    margin: 5px;
+    padding: 2px;
+}
+
+.button {
+    color: #ff8348;
+    height: 36px;
+    width: 136px;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 10px;
+}
+
+.para {
+    font-size: 10px;
+    font-family: "Roboto";
+    color: white;
+}
+
+.para2 {
+    font-family: "Roboto";
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+    text-align: left
+}
+
+.down-i1 {
+    height: 30vh;
+    width: 30vh;
+    padding: 5px;
+    margin: 5px;
+}
+
+.down-i2 {
+    height: 30vh;
+    width: 30vh;
+    padding: 10px;
+}
+
+.down-i3 {
+    height: 30vh;
+    width: 30vh;
+    padding: 10px;
+}
